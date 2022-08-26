@@ -1,0 +1,190 @@
+ <article class="product">
+      <img src="./images/benz photos/2benz c63.jpg" class="product-img img" alt="">
+        <!-- product footer --> 
+        <footer>
+          <h5 class="product-name">GLK benz</h5>
+          <span class="product-price">#10,000,000</span>
+        </footer>
+      </article>
+        <!-- single product 3 -->
+        <article class="product">
+          <img src="./images/benz photos/3benz gWagon.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">G-Wagon</h5>
+              <span class="product-price">#80,000,000</span>
+            </footer>
+          </article>
+           <!-- single product 4 -->
+        <article class="product">
+          <img src="./images/benz photos/4benz s63 back.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">GLE Series</h5>
+              <span class="product-price">#80,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 5 -->
+        <article class="product">
+          <img src="./images/benz photos/5benz s63.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">GLk 350</h5>
+              <span class="product-price">#7,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 6 -->
+        <article class="product">
+          <img src="./images/benz photos/6benz sl350.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Honda Jeep</h5>
+              <span class="product-price">#7,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 7 -->
+        <article class="product">
+          <img src="./images/benz photos/7white benz.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Benz E35</h5>
+              <span class="product-price">#7,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 8 -->
+        <article class="product">
+          <img src="./images/benz photos/8Rolls Royce.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Rolls Royce</h5>
+              <span class="product-price">#250,000,000</span>
+            </footer>
+          </article>
+           <!-- single product 9 -->
+        <article class="product">
+          <img src="./images/benz photos/9RangeRover.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Range Rover</h5>
+              <span class="product-price">#50,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 10 -->
+        <article class="product">
+          <img src="./images/benz photos/10 Volvo.jpg" class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Volvo Jeep</h5>
+              <span class="product-price">#9,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 11 -->
+        <article class="product">
+          <img src="./images/toyota and others/1 2017 Toyota Corolla SE.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Corolla SE</h5>
+              <span class="product-price">#7,000,000</span>
+            </footer>
+          </article>
+           <!-- single product 12 -->
+        <article class="product">
+          <img src="./images/toyota and others/2toyota.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Hyundia Jeep</h5>
+              <span class="product-price">#15,000,000</span>
+            </footer>
+          </article>
+           <!-- single product 13 -->
+        <article class="product">
+          <img src="./images/toyota and others/3Toyota's Corolla LE Eco Is Fuel-Conscious.png"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Corolla LE</h5>
+              <span class="product-price">#6,000,000</span>
+            </footer>
+          </article>
+           <!-- single product 14 -->
+        <article class="product">
+          <img src="./images/toyota and others/4 2020 Toyota Corolla Altis.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Camry 2020</h5>
+              <span class="product-price">#9,000,000</span>
+            </footer>
+          </article>
+            <!-- single product 15 -->
+        <article class="product">
+          <img src="./images/toyota and others/5Toyota Corolla 2019.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Camry 2015</h5>
+              <span class="product-price">#7,000,000</span>
+            </footer>
+          </article>
+            <!-- single product 16 -->
+        <article class="product">
+          <img src="./images/toyota and others/6toyota.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Coupe</h5>
+              <span class="product-price">#9,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 17 -->
+        <article class="product">
+          <img src="./images/toyota and others/8Toyota Corolla 2015.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Corolla SE</h5>
+              <span class="product-price">#10,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 18 -->
+        <article class="product">
+          <img src="./images/toyota and others/9toyota 2014.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Toyota Coupe SE</h5>
+              <span class="product-price">#10,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 19 -->
+        <article class="product">
+          <img src="./images/toyota and others/13 Kia Motors Global on Twitter.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name">Lexus Jeep</h5>
+              <span class="product-price">#20,000,000</span>
+            </footer>
+          </article>
+          <!-- single product 20 -->
+        <article class="product">
+          <img src="./images/toyota and others/14 2014 Kia Rio Pictures_Photos Gallery.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name"> Toyota Rav 2021</h5>
+              <span class="product-price">#30,000,000</span>
+            </footer>
+          </article>
+           <!-- single product 21 -->
+        <article class="product">
+          <img src="./images/toyota and others/15 Kia K3 Cerato Forte Modified Bodykit.jpg"
+           class="product-img img" alt="">
+            <!-- product footer --> 
+            <footer>
+              <h5 class="product-name"> Kia K3 Cerato</h5>
+              <span class="product-price">#6,000,000</span>
+            </footer>
+          </article>

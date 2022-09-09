@@ -395,15 +395,13 @@ Hero
 ===============
 */
 .header {
-  /* background: var(--clr-primary-10); */
   padding: 2rem 0;
-  /* background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../images/igwe\ autos\ banner.jpg) center/cover no-repeat fixed; */
   background: url(../images/IGWE\ AUTOS\ HERO.jpg) center/cover no-repeat fixed; 
     position: relative;
     overflow-x: hidden;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    /* -webkit-background-size: cover; */
+    /* -moz-background-size: cover; */
+    /* -o-background-size: cover; */
     height: 80%;
     width: 100%;
 }
@@ -767,6 +765,9 @@ Connect
 Timeline
 ===============
 */
+.timeline{
+  background: var(--clr-grey-10);
+}
 .timeline-center {
   width: 80%;
   max-width: 40rem;
@@ -819,8 +820,39 @@ Timeline
   right: 0;
 }
 
+/* 
+===========
+Embed Video
+==========
+ */
 
+ iframe{
+  width:640; 
+  height:100; 
+  max-width: 25rem;
+ }
+ .embe-video{
+  background: var(--clr-white);
+  /* height: 100%; */
+}
 
+.embe-center{
+    width: 80%;
+    max-width: 40rem;
+}
+
+@media screen and (min-width: 579px) {
+  iframe{
+    width:640; 
+    height:360; 
+    max-width:35rem;
+   }
+}
+@media screen and (min-width: 759px) {
+  iframe{
+    max-width:50rem;
+   }
+}
 /*
 =============== 
 Blog

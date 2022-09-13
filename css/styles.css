@@ -826,32 +826,26 @@ Embed Video
 ==========
  */
 
- iframe{
-  width:640; 
-  height:100; 
-  max-width: 25rem;
- }
- .embe-video{
+.embe-video{
   background: var(--clr-white);
-  /* height: 100%; */
 }
 
+.embe-video .embed-video{
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto ;
+}
 .embe-center{
     width: 80%;
-    max-width: 40rem;
+    max-width: 35rem;
+    text-align: center;
 }
 
 @media screen and (min-width: 579px) {
-  iframe{
-    width:640; 
-    height:360; 
-    max-width:35rem;
-   }
-}
-@media screen and (min-width: 759px) {
-  iframe{
-    max-width:50rem;
-   }
+  .embe-video .embed-video{
+    width: 75%;
+  }
 }
 /*
 =============== 
